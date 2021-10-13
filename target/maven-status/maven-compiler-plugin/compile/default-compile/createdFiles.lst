@@ -1,0 +1,7 @@
+modelo/Pessoa.class
+teste_banco/TesteBanco.class
+controle/ControlePessoa.class
+aplicacao/App.class
+controle/ControleLivro.class
+modelo/Livro.class
+teste_banco/TesteBancoComMetodos.class
